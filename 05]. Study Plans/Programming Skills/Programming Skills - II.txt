@@ -1,0 +1,41 @@
+896. Monotonic Array
+28. Implement strStr()
+110. Balanced Binary Tree
+459. Repeated Substring Pattern
+150. Evaluate Reverse Polish Notation
+66. Plus One
+1367. Linked List in Binary Tree
+43. Multiply Strings
+67. Add Binary
+989. Add to Array-Form of Integer
+739. Daily Temperatures
+58. Length of Last Word
+48. Rotate Image
+1886. Determine Whether Matrix Can Be Obtained By Rotation
+54. Spiral Matrix
+973. K Closest Points to Origin
+1630. Arithmetic Subarrays
+429. N-ary Tree Level Order Traversal
+503. Next Greater Element II
+556. Next Greater Element III
+1376. Time Needed to Inform All Employees
+49. Group Anagrams
+438. Find All Anagrams in a String
+713. Subarray Product Less Than K
+304. Range Sum Query 2D - Immutable
+910. Smallest Range II
+143. Reorder List
+138. Copy List with Random Pointer
+2. Add Two Numbers
+445. Add Two Numbers II
+61. Rotate List
+173. Binary Search Tree Iterator
+1845. Seat Reservation Manager
+860. Lemonade Change
+155. Min Stack
+341. Flatten Nested List Iterator
+1797. Design Authentication Manager
+707. Design Linked List
+380. Insert Delete GetRandom O(1)
+622. Design Circular Queue
+729. My Calendar I
